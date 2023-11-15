@@ -88,5 +88,5 @@ class Manager(Employee):
 1. Encapsulation
 2. Inheritance
 3. Abstraction
-4. Polymorphism
+4. Polymorphismm
 """
